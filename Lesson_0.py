@@ -8,9 +8,9 @@ print("Hello World")
 print("Escrever a nova mensagem aqui!")
 
 
-# Create variables
-num_years = 4
-days_per_year = 365 
-hours_per_day = 24
-mins_per_hour = 60
-secs_per_min = 60
+# Criar variáveis
+num_anos = 4
+dias_por_ano = 365 
+horas_por_dia = 24
+mins_por_hora = 60
+segs_por_min = 60
