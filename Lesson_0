@@ -1,1 +1,8 @@
 
+#Primeiro comando
+
+print("Hello World")
+
+# Fazer: Mudar a mensagem
+
+print("Escrever a nova mensagem aqui!")
