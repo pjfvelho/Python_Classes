@@ -10,3 +10,8 @@ The function below calculates the paycheck based on the number of hours worked. 
 Use the value for num_hours to specify the value for a new variable pay_pretax.
 Use the value of pay_pretax to specify the value for a new variable pay_aftertax.
 Return the value of the pay_aftertax variable.
+
+
+Functions with no arguments
+Note that it's possible to define function with no arguments, and that don't have a return statement. The print_hello() function in the code cell below is an example.
+
