@@ -17,3 +17,14 @@ print(pay_fulltime)
 pay_parttime = get_pay(32)
 print(pay_parttime)
 
+
+
+#Functions with no arguments
+
+# Define the function with no arguments and with no return
+def print_hello():
+    print("Hello, you!")
+    print("Good morning!")
+    
+# Call the function
+print_hello()
